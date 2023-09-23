@@ -15,7 +15,7 @@
 				value="jdbc:mysql://localhost:3306/mycart?createDatabaseIfNotExist=true" />
 			<property name="javax.persistence.jdbc.user" value="root" />
 			<property name="javax.persistence.jdbc.password"
-				value="tiger" />
+				value="tiger@123" />
 			<property name="hibernate.show_sql" value="true" />
 
 
